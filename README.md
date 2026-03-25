@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joe Epperson IV
-- 👀 I’m interested in Computer Programming and Video Game Design
-- 🌱 I’m currently studying Computer Science at the University of Missouri-Kansas City
-- 💞️ I’m looking to collaborate on any proects using C++ and Python
+- 👀 I’m interested in Computer Programming and Soccer Data Analysis
+- 🌱 I’m have a Bachelor of Science in Computer Science from the University of Missouri-Kansas City
 - 📫 How to reach me: joeepperson4@gmail.com
 
 <!---
